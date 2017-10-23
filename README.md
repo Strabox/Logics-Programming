@@ -4,4 +4,8 @@ Project to 2013/2014 Logic's Programming course of Bachelors Degree in Computer 
 
 ## Goals
 
-Solve the Queens Games using Prolog.
+Solve the Queens Puzzle using Prolog with different levels.
+
+## Project Group
+
+- https://github.com/carboned4
